@@ -11,3 +11,6 @@ this line was added in the testing-branch
 
 ## Comparison of commits between branches
 testing git log branchB..branchA
+
+## Error
+I need to delete this change
